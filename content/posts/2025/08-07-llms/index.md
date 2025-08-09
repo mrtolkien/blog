@@ -102,6 +102,10 @@ Gemini 2.5 Pro might be good, but Google makes it incredibly painful to use for 
 
 GPT 4.1 and 5 are mostly bad, _but_ are very good at following strict guidelines. With a lot of tooling, you can get decent results out of it (see below).
 
+Local models are also an option, but at the moment they really can't compete with the huge closed models. Most small-medium models suck with tools, suck at complex features, and will be very slow.
+
+I use local models for my private personal assistant, but for producing code they are unfortunately too underpowered at the moment.
+
 ## Products
 
 ### Github Copilot
