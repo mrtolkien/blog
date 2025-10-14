@@ -1,26 +1,39 @@
 # Important points
 
-- My biases: rich white man living in Japan with high social capital (engineer)
+<!-- - My biases: rich white man living in Japan with high social capital (engineer)
 - General goals and values
+
   - Freedom and what it means
   - Democracy
   - Epicurianism (the real one)
   - Science
-  - TL;DR: The French Revolution
-- Concentration of power: political, economical, cultural
-- Feminisim, decolonialism, anti-racism
+  - TL;DR: The French Revolution -->
+
+<!-- - Concentration of power: political, economical, cultural
 - Ecologie
-- Degrowth or green growth
-- Media and algorithms
+- Feminisim, decolonialism, anti-racism -->
+
+<!-- - Immigration and the far right -->
+
 - Economic policy
-- Immigration and the far right
+  - Degrowth or green growth
+- Media and algorithms
+- Work organization
+
 - Following the rule of law and why our constitutions exist
+
   - Fascism
+
 - Geopolitics: international laws are there for a reason
 - China and the US
+
   - The Taiwan case
+  - Israel
+  - Ukraine
+
 - Tech and AI
 - Truth? Weil's vision? Honesty
+- Left, right, and center
 
 # Main inspirations / authors which changed my perceptions
 
