@@ -231,6 +231,8 @@ of their citizens doesn't improve.
 
 It's because it does not matter. The weight of recent evidence is overwhelming:
 
+<!-- TODO: Re-read the papers -->
+
 - Card (2005) - "Is the New Immigration Really So Bad"
 - Card (2009) - "Immigration and Inequality"
 - Peri (2012) - "The Effect of Immigration on Productivity: Evidence from U.S.
@@ -344,6 +346,27 @@ My solution would be to:
 - Limit limited liability: shareholders and CEOs should be held _directly_
   responsible for mismanaging companies
 
+### Public vs Private
+
+One thing I often see in economics talks from capitalists is the supposed
+increased efficiency of private companies compared to public ones.
+
+I'll be honest, I have not seen it. I worked with both huge private and public
+companies, and they are just both as inefficient. In Japan in particular,
+private companies are woefully inefficient and they survive very well, succeeding
+even on the global stage, showing that there's not that big of a reward for
+increased efficiency anyways.
+
+I think simply that the bigger an organization get, the more inefficient it is,
+and that issue has not been solved yet.
+
+In my eyes the issue is monopolies. Both state monopolies and private monopolies
+are bad. They make companies complacent, driving prices up for citizens, and
+they demotivate employees, making their work lose meaning. Monopolies are terrible.
+
+So I'm for a cohabitation of public and private companies in all aspects of the
+economic life, and for restlessly combating even the _chance_ of a monopoly.
+
 ### Free trade
 
 Believe it or not, I'm in favor of trade being as free as possible when
@@ -375,16 +398,117 @@ This one sounds obvious to me, but somehow it is not.
 If the state gives money to a company without buying a product from it, it
 should get some form of ownership of it.
 
-This means tax rebates should require company stocks for the state in exchange.
+This means tax rebates should require company stocks in exchange.
 
-It's such common sense that what's crazy is that it's not the case yet.
+I don't think that should be controversial, but it will be because our
+feudal lords do not like sharing.
+
+### GDP sucks
+
+I'm very data-driven. I was an esports analyst for the best LoL team in history.
+
+And that's why I hate GDP. It measures economic activity on the basis of
+transactions and not actual output.
+
+A good read on the subject is Stiglitz, Sen & Fitoussi (2009) -
+"Report by the Commission on the Measurement of Economic Performance and Social
+Progress". Two nobel laureates, so I think they have a clue.
+
+Interestingly, Kuznets himself said he thought GDP was fundamentally inaccurate
+and inadequate for assessing an economy's true welfare when he suggested the
+metric. And don't worry, he also got a Nobel.
+
+The sad truth is that there is not a single metric that will cleanly represent the
+quality of the economy, the quality of life of the citizens, and the long-term
+impact of the industry.
+
+The important metrics are the ones that directly impact the life of the citizens.
+The HDI is pretty good, except a third of it is GDP for some reason.
+
+I don't have a magic solution for you here, I just feel like we should get out of
+the GDP-focused talks and just make it clear it's an entirely irrelevant metric,
+because it is.
+
+### Wellfare and retirement
+
+One important question regarding economic policies is: how do you take care of the
+non-working parts of society?
+
+This includes old people, kids, people with disabilities, people between jobs...
+
+I think that in our modern societies we produce enough to take care
+of everyone. We produce enough food, lodging, and infrastructure to make sure
+every single citizen of a modern country can live a good life.
+
+The only thing that is in short quantity is care: general health, elderly care,
+children care...
+
+And since we use market pricing for _everything_, it all turns into profit maximizing
+which often degenerates into price gouging and/or poor service, particularly for
+care where there's no real optimization to be made.
+
+Also, we should not forget that welfare money gets injected back into the economy,
+because by definition the ones receiving it are getting it for consumption and not
+investment.
+
+So the system I imagine would:
+
+- Make sure care work is adequately rewarded
+  - That could be through public services with high salaries, or simply through
+    working with private providers to enforce strict salaries and staffing guidelines
+- Have public companies cohabitating with private companies for core services
+  - I outlined this above, but it's particularly important for core services like
+    supermarkets, ISPs, ...
+- Make welfare systems unified
+  - It could be a universal basic income, or more targeted welfare systems
+  - But it's crucial that we _simplify_ current welfare systems that have grown
+    too complex, often making beneficiaries unaware of what they could get
 
 ## Digital policies
 
-Another hard one is digital policies. We need clear and useful regulation for
-mega platforms like Twitter, TikTok, Insta, Youtube, ... We can't let American
-billionaires decide what's right for us.
+### Media and social networks
 
-## Social policies
+For democracy to work, you need _everyone_ in the country to have access to high
+quality information and education.
 
-### Cars
+Unfortuntately this is very disconnected from what makes money as it is not about
+selling shit to people.
+
+At the same time, you don't want state media and a ministry of truth.
+
+So the solution, to me, is multiple _independant_ media funded by our taxes.
+Independant from monetary interest, independant from centralized editorial control,
+and independant from politicians:
+
+- Those media should be journalists-owned with no outside investment or advertising
+- The leadership should be democratic, with all employees having a direct voice
+- The funding should be predictable and independant of political power
+
+At the same time, billionaire-funded private and social media needs to be reigned
+in:
+
+- Private media needs to be upheld to a high standard of professionalism and
+  truthfulness. Multiple infractions to basic journalistic integrity should lead
+  to a fine for the media **owners** proportional to their wealth
+
+- Social media platforms should be equally responsible for the user's posts
+  - As they cannot guarantee a given post will not benefit from algorithmic
+    amplification, it's the only viable solution
+
+### Algorithms
+
+This one is pretty simple: every company that has algorithmic recommandation should
+be fully transparent:
+
+- Give access to the results/weights for all content shown to the user
+  - This is very easy to put in place and is the bare minimum
+- Give access to the models and data that is being used to calculate weights
+  - Much harder to enforce, but the idea would be that platforms would be
+    liable to provide enough data to run the recommandation algorithms locally
+    for a given user and piece of content
+
+I'm not against algorithmic recommandations per-say. I think it's very useful when
+used for good, and is a great way to give visibility to newcomers.
+
+But it needs transparency so we can at least tell _where_ the recommandation comes
+from.
