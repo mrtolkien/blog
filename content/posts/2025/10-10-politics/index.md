@@ -487,19 +487,19 @@ We're not immortal, there's no reason why our ownership rights should be.
 For democracy to work, you need _everyone_ in the country to have access to high
 quality information and education.
 
-Unfortuntately this is very disconnected from what makes money as it is not
-about selling shit to people.
+Unfortunately this is very disconnected from what makes money as it is not about
+selling shit to people.
 
 At the same time, you don't want state media and a ministry of truth.
 
-So the solution, to me, is multiple _independant_ media funded by our taxes.
-Independant from monetary interest, independant from centralized editorial
-control, and independant from politicians:
+So the solution, to me, is multiple _independent_ media funded by our taxes.
+Independent from monetary interest, independent from centralized editorial
+control, and independent from politicians:
 
 - Those media should be journalists-owned with no outside investment or
   advertising
 - The leadership should be democratic, with all employees having a direct voice
-- The funding should be predictable and independant of political power
+- The funding should be predictable and independent of political power
 
 At the same time, billionaire-funded private and social media needs to be
 reigned in:
@@ -516,23 +516,135 @@ reigned in:
 
 ### Algorithms
 
-This one is pretty simple: every company that has algorithmic recommandation
+This one is pretty simple: every company that has algorithmic recommendation
 should be fully transparent:
 
-- They need to give access to the recommandation score for all content shown to
+- They need to give access to the recommendation score for all content shown to
   the user
   - This is very easy to put in place and is the bare minimum
 
 - They should also give access to the models and data that is being used to
   calculate weights
   - Much harder to enforce, but the idea would be that platforms would be liable
-    to provide enough data to run the recommandation algorithms locally for a
+    to provide enough data to run the recommendation algorithms locally for a
     given user and piece of content
   - It's not like the algorithms are the secret sauce, so it should not hurt any
     platform in particular
 
-I'm not against algorithmic recommandations per-say. I think it's very useful
+I'm not against algorithmic recommendations per-say. I think it's very useful
 when used for good, and is a great way to give visibility to newcomers.
 
-But it needs transparency so we can at least tell _where_ the recommandation
+But it needs transparency so we can at least tell _where_ the recommendation
 comes from.
+
+### Privacy, anonymity, and encryption
+
+So this one is still a bit hard for me to work through.
+
+On the one hand, I am against government surveillance because it is too easy to
+be abused.
+
+On the other hand, I understand there needs to be some of it to properly enforce
+the law. You can't have full privacy and anonymity for every aspect of life and
+hope to still have people play by the rules. You can't give full anonymous
+instant communication to terrorists, pedophiles, and fascists, and expect for
+things to go smoothly.
+
+There is a balance of transparency and privacy that needs to be found.
+
+This is a message that I have trouble getting through to many of my very online
+friends, for whom privacy, anonymity, and encryption are paramount and anyone
+daring question it is a traitor to the cause.
+
+But this extremely libertarian view of the web comes _specifically_ from the
+libertarian views of the silicon valley, where any form of government power,
+even democratic, is the enemy.
+
+At the same time, with the current fascisation of the world, I am very happy
+that my chats are end to end encrypted on Signal.
+
+I don't have a simple solution. I feel like in a perfect, democratic society,
+where power is not abused, having a way, after due process, to access the
+identity of a certain user, or contents of a chat, could be a net positive.
+
+But we don't live in such a society and any tool that can be used to uncover
+anonymity will be used to hurt opponents of autocratic regimes.
+
+## AI
+
+To get this out of the way, I do think that LLMs are a transformational
+technology and the biggest tech revolution since the internet.
+
+One of the biggest uses for me is for cross-country communication: more than
+translation, those systems are capable of properly adapting content and context
+to multiple languages, and even to search for information in a part of the web
+you usually cannot access yourself.
+
+It is not perfect, and it is way, way, way overhyped by most companies at the
+moment. What's revolutionary is how it gives access to information in a novel
+way, _not_ any super-human abilities.
+
+So with how I see them, LLMs should be a common good rather than a monopolized
+resource.
+
+For example instead of wasting tens of GWh to train many similar foundational
+models, a country (or even better, a group of countries) could pool their
+resources together and run a single yearly foundational model training program.
+Then make the model freely accessible: weight, training data, and methodology.
+Then citizens and private companies would be free to use the models as they
+wish.
+
+By doing this, we would both curb the insane energy usage of model training, and
+also have a much more democratic approach to building the training set, which is
+crucial both to stop the exploitation of the global south with data labelling
+and also stopping the pilfering of the existing internet.
+
+Current datasets being private and owned by private companies following private
+interests is extremely scary, but with a public training dataset we could have a
+real open discussion about how those models should behave.
+
+Then, there's the datacenter and inference question. I am in favour of a certain
+level of publicly-owned datacenters, as access to computing power is becoming
+more and more crucial for everyone's life. But right now, it's extremely hard to
+evaluate the future computational needs of this specific technology.
+
+Therefore, I am in favour of:
+
+- Stopping the current AI datacenters build out because of its negative
+  environmental and social impact
+  - Electrical grid is overloaded already in many countries and not built to
+    support the current build out
+
+- Targeting energy usage of inference with strict regulations or incentives that
+  actually work
+  - This would implemented through higher energy costs for private companies,
+    maybe exponential costs
+
+I do think that inference energy usage will go down dramatically because of two
+factors:
+
+- There will be massive hardware improvements as we're still at the very
+  beginning of the technology.
+  - Cerebras has 1/3rd the energy usage of GPU platforms per token thanks to
+    specialized inference hardware.
+- Move to smaller models
+  - While big foundational models are extremely impressive, there are huge
+    diminishing returns. Qwen 3 coder 480b is extremely capable despite being a
+    fraction of the size of foundational models, and the 32b model is also
+    strong as long as you use it in English and on mainstream programming
+    languages. And you can go even smaller, with models like
+    [FunctionGemma](https://blog.google/innovation-and-ai/technology/developers-tools/functiongemma/)
+    that run on smartphones and are still good enough for simple tasks and
+    function-calling.
+  - The smaller the model, the lower the energy footprint. Maybe we'll move
+    towards a world of on-device models with cloud accessed foundational models
+    whose job is routing the queries to the right small models that will do the
+    rest of the job.
+
+Overall, it's one of the few topics where I feel like a centrist. I don't
+believe that LLMs are useless or that the only solution is to become ludittes,
+but I also don't believe in the lies of the marketing divisions of AI companies.
+
+I want to see the tech evolve, I want to see it used for the greater good, and I
+want to make sure this is done democratically and keeping our environmental
+limits in mind.
