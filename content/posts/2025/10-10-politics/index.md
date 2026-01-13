@@ -642,9 +642,60 @@ factors:
     rest of the job.
 
 Overall, it's one of the few topics where I feel like a centrist. I don't
-believe that LLMs are useless or that the only solution is to become ludittes,
+believe that LLMs are useless or that the only solution is to become Luddites,
 but I also don't believe in the lies of the marketing divisions of AI companies.
 
 I want to see the tech evolve, I want to see it used for the greater good, and I
 want to make sure this is done democratically and keeping our environmental
 limits in mind.
+
+## Geopolitics
+
+### Taiwan
+
+Talking about Taiwan with me angered a few of my friends already, so I'd like to
+clarify my position here.
+
+The current state of affairs is that:
+
+- Taiwan is _not_ recognized as a country by most of the world
+  - And I'm not saying that's a good thing
+- [65% of people in Taiwan did not think China would attack in the next 5 years](https://www.bbc.com/news/articles/cp94v42gmg9o)
+  as of August 2025
+- While support for independence is high
+  [at around 60%](https://taiwannews.com.tw/news/6251540), it's still not a
+  complete consensus even in Taiwan
+- In terms of international law, Taiwan is part of China
+  - At the same time, you could make a good argument for the right to
+    self-determination of the Taiwanese population.
+
+What bothers me in the western discussion around Taiwan is the alarmism: China
+is always going to attack next year, and they're always the big bad, and US
+would always be legitimate to "defend" Taiwan by invading it first if it was to
+"protect" it from a Chinese invasion.
+
+I do not think that's a good read of the situation.
+
+The US and Japan do not have the good of the Taiwanese population in mind when
+they are getting ready for a war. Any time the US decided to "save" a country
+from authoritarianism, they brought it to ruin and destruction.
+
+At the same time, I'm not saying it would be right for China to seize control of
+Taiwan militarily.
+
+I think the solution needs to be diplomatic and democratic.
+
+I think this starts with a clear stance from western countries on the subject:
+while full Taiwan recognition is too early, moving forward with a clarification
+process to stop the status quo should quell current militarism _from both
+sides_.
+
+Mainland China needs to do business with the EU and the US, and so far it's been
+pretty respectful of international law.
+
+So why not use that economic dependence as well as that willingness to play by
+the rules to push the Taiwan issue to a positive end, instead of drumming up
+militarism, war, and violence?
+
+I think we all know the answer: the US want that war to happen because they
+think they'll win and it would hurt China more than them.
