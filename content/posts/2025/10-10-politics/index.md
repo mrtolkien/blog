@@ -699,3 +699,37 @@ militarism, war, and violence?
 
 I think we all know the answer: the US want that war to happen because they
 think they'll win and it would hurt China more than them.
+
+### EU
+
+So, what about the EU.
+
+I'm an universalist. I believe in equality and democracy, and as such, in
+international cooperation and unionization.
+
+But the EU ain't it.
+
+It's mostly a free and open market with very conservative monetary policies.
+That's about it.
+
+I don't feel like the current version of the EU is achieving its goal to make
+Europeans feel closer. All of EU is slowly but surely succumbing to far right
+populism, public services are getting worse everywhere, and standards of living
+are falling.
+
+I therefore feel like a hard reset is needed. This can come from the existing
+institutions through pressure from the biggest economies (France and Germany),
+or by starting a new form of European federation.
+
+In EU 2.0, I want:
+
+- A common fiscal policy from which countries would need a good reason to
+  deviate
+  - We can't continue having fiscal havens in EU
+  - That would also increase workers and companies mobility. I lived and payed
+    my taxes in Germany for 6 months and I still don't understand it.
+- An _actual_ commitment to democracy in members countries
+  - Free media, prevention of lobbying, fair elections, ...
+- Independence from US technology
+  - We can't continue to depend on the US for technology, they have a horrendous
+    track record regarding privacy and law abidance
