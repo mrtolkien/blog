@@ -456,13 +456,51 @@ So the system I imagine would:
   - That could be through public services with high salaries, or simply through
     working with private providers to enforce strict salaries and staffing
     guidelines
-- Have public companies cohabitating with private companies for core services
+- Have public companies cohabiting with private companies for core services
   - I outlined this above, but it's particularly important for core services
     like supermarkets, ISPs, ...
 - Make welfare systems unified
   - It could be a universal basic income, or more targeted welfare systems
   - But it's crucial that we _simplify_ current welfare systems that have grown
     too complex, often making beneficiaries unaware of what they could get
+
+### Housing
+
+There's a worldwide housing crisis. Everyone thinks they have it worse, but the
+truth is there are very few big cities worldwide where housing is affordable for
+workers on minimum wages.
+
+This is due to one root cause: making real estate into financial assets. This is
+the conclusion of the
+[UN 2017 Report on the Financialization of Housing (Document A/HRC/34/51).](https://www.ohchr.org/en/special-procedures/sr-housing).
+
+So the solution is simple: massive public and social housing. No "financial
+incentives", no relying on private companies: massive public investment and
+public ownership of real estate, with a clear goal of affordable high quality
+housing for as many people as possible.
+
+There is another critical issue, which is the overbuilding of pointless
+commercial real estate and its use as a semi-liquid asset. This has been a big
+topic recently in France thanks to the
+[research of Marine Duros](https://www.raisonsdagir-editions.org/catalogue/immobilier-hors-sol/).
+
+Very simply put, real estate promoters are massively overbuilding commercial
+real estate, and have been doing so since before COVID.
+
+They do this because:
+
+- Commercial real estate is more liquid than housing
+- There are many tax incentives from governments towards commercial real estate
+- If it fails, they can barter with governments to make them foot the bill to
+  turn the offices into housing
+
+So there need to be a fundamental change there too. In the past
+[right wing politicians used to requisition empty office space to house homeless people](https://www.lemonde.fr/archives/article/1995/11/17/jacques-chirac-demande-un-nouveau-programme-de-requisitions-de-logements_3885415_1819218.html)
+. There's no reason why this should not be _required_ for unused office space.
+
+If a company overbuilds and wastes valuable resources of land, manpower, and
+materials, they should be liable not just for the loss of their own investment,
+but for the opportunity cost they burden on the rest of society.
 
 ## Law and Digital policies
 
