@@ -37,7 +37,7 @@ In standard keyboards you also have:
 
 Normie keyboards have a few different physical layouts: ISO, ANSI, JIS, KS, etc.
 
-![Normie layouts](many-layouts.webp)
+![Normie layouts](many-layouts.png)
 
 They all share multiple issues:
 
@@ -54,7 +54,7 @@ They all share multiple issues:
 
 The ISO keyboard is a 105 keys layout defined as "standard" by the International Organization for Standardization.
 
-![ISO layout](ISO_Layout.webp)
+![ISO layout](ISO_Layout.png)
 
 It is by far the worst of all existing layouts:
 
@@ -64,7 +64,7 @@ It is by far the worst of all existing layouts:
 
 ## The JIS innovation
 
-![JIS layout](JIS_layout.webp)
+![JIS layout](JIS_layout.png)
 
 The JIS layout is still bad but it has a few one thing going for it:
 
@@ -170,7 +170,7 @@ I think wireless split is the true endgame, but at the moment I'm sticking to un
 
 ## Curved keyboards
 
-![Glove80](glove80.webp)
+![Glove80](glove80.png)
 
 Curved keyboard make keys even closer to each finger by following the natural curve of your hand.
 

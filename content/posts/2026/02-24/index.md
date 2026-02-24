@@ -60,7 +60,7 @@ I got ClawdBot to design a new keyboard from scratch, up to generating 3d protot
 just had to print to validate the physical layout. All without ever touching my
 terminal. Ngl, I was impressed.
 
-![keyboards](keyboards.webp)
+![keyboards](keyboards.png)
 
 # The meh
 
