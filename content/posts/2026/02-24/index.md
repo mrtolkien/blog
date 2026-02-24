@@ -152,6 +152,7 @@ Here's where I'm at today:
   to use natural language to find relevant notes
 - The notes build a directed knowledge graph based on markdown files, browsable through
   the CLI, powered by an embedded [SurrealDB](https://surrealdb.com/)
+- Full tracing and [Logfire](https://pydantic.dev/logfire) integration
 
 And here's the current state of the backlog:
 
