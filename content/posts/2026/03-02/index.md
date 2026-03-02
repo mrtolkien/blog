@@ -26,7 +26,7 @@ it done in any semblance of time, I need some help.
 
 I've been an LLM user for a long time starting with the Copilot Alpha a few
 years back up to
-[testing out many services this summer](https://blog.tolki.dev/posts/2025/08-07-llms),
+[testing out many services last summer](https://blog.tolki.dev/posts/2025/08-07-llms),
 which got me
 [roasted pretty hard on HackerNews](https://news.ycombinator.com/item?id=44847741).
 But it was the first time I vibe coded _that_ hard on a project.
@@ -96,7 +96,7 @@ Then I realized why it had done so a few days later. It was not passing a
 `reasoning` level to the OpenAI Codex API. As it's unofficial, there's no docs
 for it, and even as I passed it the
 [full pi mono implementation](https://github.com/badlogic/pi-mono/blob/main/packages/ai/src/providers/openai-codex-responses.ts),
-it got it wrong. So since it was not receiving any reasoning blocks anyways!
+it got it wrong. It was not receiving any reasoning blocks anyways!
 
 For about 10 days I was trying to debug extremely complex e2e tests that had
 tens of moving parts (web search, web fetch, prompt engineering, TODO injection,
