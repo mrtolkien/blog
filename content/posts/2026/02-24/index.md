@@ -3,6 +3,9 @@ title: "The lobster and the GHOST"
 date: 2026-02-24
 tags:
   - LLMs
+  - GHOST
+series: ["GHOST"]
+series_order: 1
 ---
 
 # The moltening
