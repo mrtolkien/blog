@@ -1,6 +1,8 @@
 ---
 title: "Failure"
 date: 2026-04-09T13:55:19+09:00
+series: ["GHOST"]
+series_order: 4
 ---
 
 It's been about two months since I started working on
