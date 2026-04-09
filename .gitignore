@@ -14,3 +14,6 @@ hugo.linux
 
 # Mac stuff
 .DS_Store
+
+.env
+.envrc
