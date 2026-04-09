@@ -60,9 +60,9 @@ The thing is, my GHOST is _decent_.
 
 It is legitimately better than the web apps from top LLM providers. Now, my wife
 uses it over Gemini as she finds it provides higher quality responses. I also
-learned how many moving parts an AI agent has that still is not fully solved.
+learned how many moving parts an AI agent has that are still not fully solved.
 
-Let's review them quickly.
+Let's do a short review.
 
 ## Prompt engineering
 
@@ -91,9 +91,10 @@ The thing is, modern models are very good at following instructions. When given
 clear workflows that work against their biases they end up producing much higher
 quality output than "raw" usage.
 
-The problem is that AI peddlers don't want higher quality output. Instead of
-focusing on long-term positive outcomes for humans, _which it should_, it
-focuses on short term gratification.
+The problem is that AI peddlers don't want higher quality output.
+
+Instead of focusing on long-term positive outcomes for humans, _which it
+should_, it focuses on short term gratification.
 
 What I learned is simple: privately funded company **will** optimize for
 engagement and user satisfaction, aka, slop and brain damage.
@@ -102,7 +103,7 @@ The only way to sidestep it is to work with providers _only_ for LLM access, and
 always refuse their tools and apps.
 
 LLMs are extremely powerful systems, but the incentive in place for big
-companies to hasten adoptions are detrimental to their apps.
+companies to hasten adoption are detrimental to their apps.
 
 ## Knowledge management
 
@@ -137,12 +138,12 @@ extra layer of complexity.
 The more I added to the core binary, the more bloated it got with features that
 maybe 1% of users would care about.
 
-For example adding .epub imports wass extremely useful for me to have natural
+For example adding .epub imports was extremely useful for me to have natural
 language semantic search on the books I read, but does it deserve to be part of
 the agent for everyone? Clearly not.
 
-So I needed a plugin system, which would likely be WASM if I went there. But
-it's not going to happen.
+So I needed a plugin system, which would be WASM. But it's not going to happen
+since I'm dropping the project.
 
 ## Providers and pricing
 
@@ -152,16 +153,20 @@ place:
 - Claude Pro offers decent value at 20$/month, but using it "freely" (through
   their API without Claude Code) is against the ToS
 - ChatGPT Plus is OK with you using your subscription's tokens as you wish...
-  but through and undocumented API. And also I'm not a big ~~Closed~~OpenAI fan.
+  but through and undocumented API that has a ton of quirks. And also I'm not a
+  big ~~Closed~~ OpenAI fan.
 - Google's pricing is a mess and Gemini CLI always blocked me after 5 minutes of
-  usage, even when I was on the pro plan
-- Chinese models are getting extremely good but you have to pay per token
-  (mostly), and prices can end up relatively high
+  usage, even when I was on the pro plan. Gemini 3 looks like a decent model,
+  but you can't really get it out of its web app without extremely high costs
+- Chinese models are getting extremely good but you have to pay per token and
+  prices can end up relatively high
 - Running performant models locally on reasonably priced hardware is still a few
   years away
 
 I still don't have a "clean" solution. If I had to pay for a subscription or
 tokens for an AI agent today, I'm not sure which one I'd pick.
+
+Might be giving a shot to [Synthetic](https://synthetic.new/).
 
 ## Security
 
@@ -169,19 +174,19 @@ And finally, the reason I gave up.
 
 My GHOST was full YOLO, with full shell access to the host.
 
-When I started actually speccing the security... I realized it was an extreme
-amount of work and testing that was already getting solved by so many other
-tools.
+When I started speccing the security... I realized it was an extreme amount of
+work and testing that was already getting solved better by so many other tools.
 
-And if security had been my only issue, I'd have done it. But when I'm running
-into small bugs daily... Adding security will just make them worse!
+If security had been my only issue, I'd have done it. But when I'm running into
+small bugs daily... Adding security will just make it worse!
 
 # Keeping the good stuff
 
 Right now I plan to give other AI assistants a shot while using what I learned:
 
-- Using prompt engineering to make it so the AI can't bullshit me
+- Using prompt engineering to make it so the AI won't bullshit me
 - Trying external memory systems that are _supposed_ to work well
+  ([MemPalace](https://www.mempalace.tech/)?)
 - Relying on their extensibility system to implement the features I want (like
   epub import!)
 
