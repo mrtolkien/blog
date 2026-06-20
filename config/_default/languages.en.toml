@@ -1,4 +1,4 @@
-languageCode = "en-gb"
+locale = "en-gb"
 weight = 1
 
 title = "Tolki's Blog"
@@ -13,8 +13,8 @@ rtl = false
 # TODO Review -> About page?
 name = "Gary <Tolki> Mialaret"
 image = "img/portrait_lowres.jpg"
-headline = "Gaming, Software Development, Data Science, Fitness"
-# TODO Review (end of pages)
+headline = "Keyboards, Gaming, Software Development, Data Science, Fitness"
+# TODO: Review (end of pages)
 bio = "Gaming, Software Development, Data Science, Fitness"
 links = [
     #     { email = "mailto:hello@your_domain.com" },
