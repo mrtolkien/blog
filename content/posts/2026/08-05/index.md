@@ -35,7 +35,7 @@ _and_ for some reason does not have keys under the right thumb (wut?).
 
 So I started with the following goals written out:
 
-![My obsidian note, started January 2026](2026-08-05-16-31-27.png)
+![My obsidian note, started January 2026](2026-08-05-16-31-27.webp)
 
 ## Building it
 
@@ -48,11 +48,11 @@ The only issue was that connecting to the XIAO's battery pad also required solde
 so I added a pad on the PCB a few centimeters away and connected it to the socketed controller with
 a wire. Looks scuffed, but it works:
 
-![Scuffed wire](2026-08-05-11-36-15.png)
+![Scuffed wire](2026-08-05-11-36-15.webp)
 
 I ordered the PCBs from [JLCPCB](https://jlcpcb.com/) on April 28th.
 
-![JLCPCB order #1](2026-08-05-11-35-18.png)
+![JLCPCB order #1](2026-08-05-11-35-18.webp)
 
 A week later, I had designed and built my first-ever wireless split keyboard!
 
@@ -64,7 +64,7 @@ I felt like the keyboard still looked pretty meh but I
 [shared my progress on Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/1tfq2r0/dokodemoergo_v0/),
 quickly going over the design choices and using some basic smartphone photos.
 
-![Built DDEv0](2026-08-05-11-43-57.png)
+![Built DDEv0](2026-08-05-11-43-57.webp)
 
 Over 27k views later, I realized I was not the only one who thought this was the right set of specs
 for a keyboard! The community feedback was extremely positive, and it motivated me to do a new
@@ -78,9 +78,9 @@ case.
 I got a bit lost in the specifics, trying to learn Blender and Inkscape, before realizing I _maybe_
 should focus on the keyboard itself first.
 
-![My madness setup](2026-08-05-11-44-37.png)
+![My madness setup](2026-08-05-11-44-37.webp)
 
-![Multicolor tests](2026-08-05-11-44-57.png)
+![Multicolor tests](2026-08-05-11-44-57.webp)
 
 I _will_ come back to it at some point though, because it looks cool.
 
@@ -118,7 +118,7 @@ But it seemed so much simpler to manufacture that way, I gave it a shot.
 
 A few hours later, my PCB was ready and ordered, together with a few cases and even keycaps.
 
-![2nd order](2026-08-05-12-09-03.png)
+![2nd order](2026-08-05-12-09-03.webp)
 
 ## And a website
 
@@ -131,7 +131,7 @@ Fable.
 I then whipped this up in two days: [Tolkeebs shop](https://shop.tolki.dev/). I think it's pretty
 sick.
 
-![shop.tolki.dev](2026-08-05-16-28-25.png)
+![shop.tolki.dev](2026-08-05-16-28-25.webp)
 
 I then
 [posted another interest check on Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/1u69lct/ic_dokodemoergo_a_tiny_wireless_split_keyboard/)
@@ -143,7 +143,7 @@ In a few hours, I hit over 100 subscriptions to the mailing list.
 
 Then I received the PCBs, and it was time to try the hot plate:
 
-![Hot plate](2026-08-05-11-56-32.png)
+![Hot plate](2026-08-05-11-56-32.webp)
 
 The thing is... a cheap hot plate does not really heat the whole surface uniformly, and I had _many_
 bridging issues on my first few tries.
@@ -164,9 +164,9 @@ So I started ordering cases for my keyboard with more advanced 3D printing proce
 - Translucent resin
 - MJF dyed matte black
 
-v1 vs v0: ![v0 vs v1](2026-08-05-12-02-12.png)
+v1 vs v0: ![v0 vs v1](2026-08-05-12-02-12.webp)
 
-MJF black: ![MJF black](2026-08-05-12-03-20.png)
+MJF black: ![MJF black](2026-08-05-12-03-20.webp)
 
 In the end, the casing of the keyboard and the switches are the most visually important part of the
 product, so I wanted to make sure I could offer something that feels premium.
@@ -175,7 +175,7 @@ I really think the translucent version ended up looking great, re-using my
 [Hokuto Esports logo](https://lol.fandom.com/wiki/Hokuto_Esports) as naked copper visible through
 the case!
 
-![DDE v1 translucent](2026-08-05-12-10-37.png)
+![DDE v1 translucent](2026-08-05-12-10-37.webp)
 
 ## Using the DDEv1
 
@@ -215,9 +215,9 @@ keys with the inner index column.
 So I ordered PCBs and cases again, built the keyboard... And this time, it felt ready for the big
 show.
 
-![DDE FE Prototype](2026-08-05-16-48-55.png)
+![DDE FE Prototype](2026-08-05-16-48-55.webp)
 
-![DDE FE prototype](2026-08-05-16-49-13.png)
+![DDE FE prototype](2026-08-05-16-49-13.webp)
 
 While I had not placed a PCBA order yet, I was confident I could produce **one** high-quality
 keyboard with great typing feel and minimal height.
@@ -246,7 +246,7 @@ I used an LLM again to create an interactive visualization of thumb clusters rel
 resting position:
 [you can see it here](https://gistpreview.github.io/?996ccfff61fd84671685bc14be57c26b).
 
-![thumb position comparator](2026-08-05-17-33-53.png)
+![thumb position comparator](2026-08-05-17-33-53.webp)
 
 I also looped in the 10 founders edition buyers and they all agreed with my proposed new thumb
 cluster design.
@@ -259,7 +259,7 @@ I picked JLCPCB to produce the PCBAs as they looked to be the cheapest for a 10-
 
 My goal was to order 15 units to have one for me and a few spares just in case.
 
-![Cost per 15](2026-08-05-17-35-35.png)
+![Cost per 15](2026-08-05-17-35-35.webp)
 
 ### Sourcing
 
@@ -343,7 +343,7 @@ that were supposed to connect to the underside of the XIAO controller.
 
 As you can see here, _all 6 pads_ in the center are void of paste:
 
-![faulty XIAO controller](2026-08-06-14-40-33.png)
+![faulty XIAO controller](2026-08-06-14-40-33.webp)
 
 I contacted JLCPCB and am trying to determine what went wrong, both with the extreme amount of
 component loss and with the subsequent failures. I'm still in contact with them and hoping to get at
@@ -373,14 +373,14 @@ per travel case.
 
 So, I started printing at home. With a single 30-hour print, I was able to produce 8 TPU inserts:
 
-![TPU inserts](2026-08-06-14-50-56.png)
+![TPU inserts](2026-08-06-14-50-56.webp)
 
 Then I asked the founders if they wanted other colors for their travel cases since I was ordering
 some more PETG.
 
 We ended up with black, orange, dark green, and white:
 
-![travel cases](2026-08-06-14-55-51.png)
+![travel cases](2026-08-06-14-55-51.webp)
 
 At this point I had everything down, right?
 
@@ -394,7 +394,7 @@ an arcade controller button to activate the flashing mode.
 
 Not _exactly_ production-ready.
 
-![my old dongle](2026-08-06-14-58-05.png)
+![my old dongle](2026-08-06-14-58-05.webp)
 
 The most annoying part was making sure the flashing mode was easy to access, as it's required to
 change the layout.
@@ -402,18 +402,18 @@ change the layout.
 So I looked at the components I had lying around and I realized I had a small stock of shitty push
 buttons:
 
-![good enough](2026-08-06-15-01-56.png)
+![good enough](2026-08-06-15-01-56.webp)
 
 If it works, is it really that stupid?
 
 I had to install the FreeCAD 1.2 beta to have access to text in sketches, but then I could make a
 simple numbered dongle:
 
-![dongle with case](2026-08-06-15-02-37.png)
+![dongle with case](2026-08-06-15-02-37.webp)
 
 Ready for "mass" production!
 
-![donglesssssss](2026-08-06-15-03-36.png)
+![donglesssssss](2026-08-06-15-03-36.webp)
 
 ## The power switch
 
@@ -431,7 +431,7 @@ Turns out making a 0.4mm thick wall with a 0.4mm nozzle is not _that_ accurate.
 After a few changes to allow for bigger tolerances, and with a new 0.2mm nozzle, I re-printed the
 switch.
 
-![power switch](2026-08-06-15-10-07.png)
+![power switch](2026-08-06-15-10-07.webp)
 
 Does it move? Yes. Is it smooth? No.
 
@@ -442,11 +442,11 @@ problem for future-future-me...
 
 Finally, it was time to build!
 
-![all parts](2026-08-06-15-14-47.png)
+![all parts](2026-08-06-15-14-47.webp)
 
-![finished half](2026-08-06-15-14-59.png)
+![finished half](2026-08-06-15-14-59.webp)
 
-![moustache man](2026-08-06-15-14-04.png)
+![moustache man](2026-08-06-15-14-04.webp)
 
 I made an [assembly guide on the website](https://shop.tolki.dev/support/hardware-guides/assembly/)
 for reference, so you can see all steps and components!
@@ -458,16 +458,16 @@ nearby convenience store. The perks of living in Japan.
 
 I used my measly design skills to create this:
 
-![flyer](2026-08-06-15-19-08.png)
+![flyer](2026-08-06-15-19-08.webp)
 
 I think it came out pretty cool. I hate minimalism btw.
 
 I was ready to put the keyboards in boxes.
 
-![boxes everywhere](2026-08-06-15-29-54.png)
+![boxes everywhere](2026-08-06-15-29-54.webp)
 
-![Keyboards!](2026-08-06-15-30-16.png) ![packaging](2026-08-06-15-29-17.png)
-![boxes!](2026-08-06-15-30-08.png)
+![Keyboards!](2026-08-06-15-30-16.webp) ![packaging](2026-08-06-15-29-17.webp)
+![boxes!](2026-08-06-15-30-08.webp)
 
 ## Shipping and taxes
 
@@ -489,7 +489,7 @@ the price is at least reasonable, albeit the delivery is pretty slow.
 After preparing all the shipping labels, I went to the post office and took an hour of the staff's
 time to get all paperwork right as I was shipping to 6 different countries:
 
-![POST](2026-08-06-15-34-27.png)
+![POST](2026-08-06-15-34-27.webp)
 
 And with this, I had built and shipped my 10 keyboards!
 
@@ -499,7 +499,7 @@ And with this, I had built and shipped my 10 keyboards!
 
 With shipping done I could list my actual cost per unit:
 
-![total costs](2026-08-06-15-43-03.png)
+![total costs](2026-08-06-15-43-03.webp)
 
 That was a $64 margin per non-US sale, and only a $32 margin on US sales. I'm also not counting some
 flat costs that popped up here and there, or my 3D printer.
