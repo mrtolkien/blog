@@ -39,7 +39,7 @@ So I started with the following goals written out:
 
 ## Building it
 
-So I fired up a new [ergogen](https://ergogen.xyz/) repo and started building.
+I fired up a new [ergogen](https://ergogen.xyz/) repo and started building.
 
 I used the [Seeed XIAO BLE](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) to
 simplify battery management and the wireless stack while keeping a small footprint.
@@ -82,7 +82,7 @@ should focus on the keyboard itself first.
 
 ![Multicolor tests](2026-08-05-11-44-57.webp)
 
-I _will_ come back to it at some point though, because it looks cool.
+I _will_ come back to it at some point. It does look sick.
 
 # DokoDemo Ergo One
 
@@ -96,11 +96,11 @@ I knew I could make it better, and I knew how.
 Clearly, the biggest pain point in building the v0 was the controller. The sockets made it very
 tall, and while it didn't create issues during typing, it looked ugly.
 
-The best way was clearly to [surface mount](https://en.wikipedia.org/wiki/Surface-mount_technology)
-the controller as it would allow me to solder the battery pin properly.
+The best way was to [surface mount](https://en.wikipedia.org/wiki/Surface-mount_technology) the
+controller as it would allow me to solder the battery pin properly.
 
-But PCB assembly is relatively expensive because of all the setup costs, and I didn't want to commit
-to it yet.
+But PCB assembly (PCBA) is relatively expensive because of all the setup costs, and I didn't want to
+commit to it yet.
 
 I therefore decided to give
 [hot plate soldering](https://www.instructables.com/SMD-SOLDERING-101-USING-HOT-PLATE-HOT-AIR-BLOWER-S/)
