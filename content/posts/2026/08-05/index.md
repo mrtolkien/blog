@@ -554,3 +554,5 @@ So, onwards to 100 (or 200), and if it works well... to 1000?
 
 Oh and [you can still sign up to the mailing list here](https://shop.tolki.dev/shop). I'll send an
 email once the process for the next step is finalized!
+
+![clean photo](2026-08-07-09-52-33.png)
