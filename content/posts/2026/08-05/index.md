@@ -551,3 +551,6 @@ I really feel like there's a niche that's underserved here, and I feel like I ha
 point and features for it.
 
 So, onwards to 100 (or 200), and if it works well... to 1000?
+
+Oh and [you can still sign up to the mailing list here](https://shop.tolki.dev/shop). I'll send an
+email once the process for the next step is finalized!
