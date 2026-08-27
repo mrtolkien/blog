@@ -171,8 +171,8 @@ I don't want Tab on a double pinky extension.
 
 I don't want to have to move my whole hand to hold multiple modifiers at once.
 
-I don't even want to entertain the option of having a key that requires my pinky to move **three**
-key spaces to press it!
+I don't even want to entertain the idea of having a key that requires my pinky to move **three** key
+spaces to press it!
 
 ## Where pinky
 
