@@ -38,10 +38,10 @@ my shoulders and arms in a neutral position while I type, even for long stretche
 ## Thumb strong
 
 The second core feature of compact keyboards is the thumb cluster. While we're making the keyboard
-much smaller, we're actually increasing the thumb's use.
+much smaller, we're actually making greater use of the thumbs.
 
-With two keys per thumb, we can properly use all 10 fingers to type and therefore reduce individual
-strain a bit more.
+With two keys per thumb, we can properly use all 10 fingers to type and therefore reduce the strain
+on each finger a bit more.
 
 Two thumb keys are a good middle ground: you get one at the resting position of your thumb and a
 second one easily accessible with little exertion.
@@ -58,8 +58,8 @@ them.
 Once you cram the features of a standard 105-key keyboard into 34, you end up using layers. Your
 keys play triple duty.
 
-And there's no keycap that's showing all that. You'll _need_ to create a solid mental mapping
-between your fingers and what's happening on the PC.
+And there's no keycap that shows all that. You'll _need_ to create a solid mental mapping between
+your fingers and what's happening on the PC.
 
 No looking down. Ever.
 
@@ -73,7 +73,7 @@ Parentheses are symmetrical in the symbol layer.
 This is a far cry from the arbitrary nature of the QWERTY symbols and non-alphanumeric keys.
 
 So while full touch typing is possible on a normal keyboard, it's imo much more convenient on
-compact ones. And that's including all symbols, numbers, and modifiers.
+compact ones. And that includes all symbols, numbers, and modifiers.
 
 # Ergo?
 
@@ -107,7 +107,7 @@ I wrote a bit about it here:
 
 # The nerd addendum
 
-By now, I hope I've convinced you that small wireless split keyboards are good.
+By now, I hope I've convinced you that small, split, wireless keyboards are good.
 
 But how many keys _exactly_ should you run?
 
@@ -121,8 +121,8 @@ And honestly? It wasn't that bad.
 
 30 is extreme, for sure, but also manageable.
 
-At the same time, needing combos for some letters just felt a bit weird. I felt like while I _could_
-make it work, I was not gaining much from it compared to adding a few more keys.
+At the same time, needing combos for some letters just felt a bit weird. While I _could_ make it
+work, I felt like I was not gaining much from it compared to adding a few more keys.
 
 ## 34? I really need 36
 
@@ -171,16 +171,8 @@ I don't want Tab on a double pinky extension.
 
 I don't want to have to move my whole hand to hold multiple modifiers at once.
 
-I don't even want to entertain the option of having a key requiring my pinky to move **three** key
-spaces to press it!
-
-## 34 it is
-
-So it's simple:
-
-- 30 requires combos for some letters. It's clunky
-- 36 adds two thumb keys but they went unused with my layouts
-- 40+ require too much hand movement with no real gain
+I don't even want to entertain the option of having a key that requires my pinky to move **three**
+key spaces to press it!
 
 ## Where pinky
 
@@ -203,10 +195,18 @@ tent it higher on a table. And I feel like tenting on top of the table is the st
 these keyboards. And tenting it higher is generally bad. That's the whole point of low-profile
 keyboards tbh.
 
-So while I prefer pinky side movement to the top extension, I feel like it's worth it to move the
-third pinky key _above_ to move the keyboard down a few centimeters when tented.
+So while I prefer pinky side movement to the top extension, I feel like it's worth moving the third
+pinky key _above_ so the keyboard can sit a few centimeters lower when tented.
 
 And this is supposed to be the least-used key on the keyboard anyway!
+
+## 34 it is
+
+So it's simple:
+
+- 30 requires combos for some letters. It's clunky.
+- 36 adds two thumb keys, but they went unused with my layouts.
+- 40+ keys require too much hand movement with no real gain.
 
 # How?
 
@@ -216,12 +216,12 @@ Here's the default keymap for the DDE:
 
 I will make a separate article on the subject, but the gist of it is:
 
-- [Layers](https://zmk.dev/docs/keymaps/behaviors/layers) let you access all keycodes that exist on
-  a normal keyboard
-- [Home Row Modifiers](https://precondition.github.io/home-row-mods) lets you chord modifiers like
-  Super, Ctrl, or Alt without leaving the home row
-- [Combos](https://zmk.dev/docs/keymaps/combos) makes keys like Enter or Escape accessible while not
-  requiring a full key.
+- [Layers](https://zmk.dev/docs/keymaps/behaviors/layers) let you access every keycode available on
+  a normal keyboard.
+- [Home Row Modifiers](https://precondition.github.io/home-row-mods) let you chord modifiers like
+  Super, Ctrl, or Alt without leaving the home row.
+- [Combos](https://zmk.dev/docs/keymaps/combos) make keys like Enter or Escape accessible without
+  requiring a dedicated key.
 
 It's really not that hard, and you can get used to it in a few days.
 
