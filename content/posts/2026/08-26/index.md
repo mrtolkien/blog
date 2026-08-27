@@ -5,8 +5,13 @@ series: ["Doko Demo Ergo"]
 series_order: 2
 ---
 
-Why even use minimalist keyboards? Are those actually ergonomic? Why 34 keys? How do you even type
-on this?
+Why even use minimalist keyboards?
+
+Are those actually ergonomic?
+
+Why 34 keys?
+
+How do you even type on this?
 
 ![my keyboard](2026-08-26-16-25-48.png)
 
@@ -169,6 +174,14 @@ I don't want to have to move my whole hand to hold multiple modifiers at once.
 I don't even want to entertain the option of having a key requiring my pinky to move **three** key
 spaces to press it!
 
+## 34 it is
+
+So it's simple:
+
+- 30 requires combos for some letters. It's clunky
+- 36 adds two thumb keys but they went unused with my layouts
+- 40+ require too much hand movement with no real gain
+
 ## Where pinky
 
 Talking about the pinky, where to put its third key?
@@ -191,7 +204,7 @@ these keyboards. And tenting it higher is generally bad. That's the whole point 
 keyboards tbh.
 
 So while I prefer pinky side movement to the top extension, I feel like it's worth it to move the
-third pinky key _above_ to gain a bit of tenting height.
+third pinky key _above_ to move the keyboard down a few centimeters when tented.
 
 And this is supposed to be the least-used key on the keyboard anyway!
 
@@ -203,9 +216,12 @@ Here's the default keymap for the DDE:
 
 I will make a separate article on the subject, but the gist of it is:
 
-- [Layers](https://zmk.dev/docs/keymaps/behaviors/layers)
-- [Home Row Modifiers](https://precondition.github.io/home-row-mods)
-- [Combos](https://zmk.dev/docs/keymaps/combos)
+- [Layers](https://zmk.dev/docs/keymaps/behaviors/layers) let you access all keycodes that exist on
+  a normal keyboard
+- [Home Row Modifiers](https://precondition.github.io/home-row-mods) lets you chord modifiers like
+  Super, Ctrl, or Alt without leaving the home row
+- [Combos](https://zmk.dev/docs/keymaps/combos) makes keys like Enter or Escape accessible while not
+  requiring a full key.
 
 It's really not that hard, and you can get used to it in a few days.
 
