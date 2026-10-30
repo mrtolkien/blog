@@ -15,12 +15,27 @@ Superpowers. Ponytail.
 And while we can feel the models getting better and better, I couldn't help but hate the
 "standard" LLM-driven workflow:
 
-- Prompt the coding agent about a feature
-- Wait for it to gather context and respond
-- Start iterating in the chat, respond to questions one by one, with a shitty interface
-- Once the feature is well specced, let the agent build
-- Be disappointed by the resulting code: too complex, faulty, poorly organized
-- Add more skills, prompts, context, and rules, and pray it goes well
+{{< timeline >}}
+
+{{< timelineStep icon="comment" >}} Prompt the coding agent about a feature
+{{< /timelineStep >}}
+
+{{< timelineStep icon="mug-hot" >}} Wait for it to gather context and respond
+{{< /timelineStep >}}
+
+{{< timelineStep icon="circle-question" >}} Start iterating in the chat, respond to
+questions one by one, with a shitty interface {{< /timelineStep >}}
+
+{{< timelineStep icon="code" >}} Once the feature is well specced, let the agent build
+{{< /timelineStep >}}
+
+{{< timelineStep icon="poo" >}} Be disappointed by the resulting code: too complex,
+faulty, poorly organized {{< /timelineStep >}}
+
+{{< timelineStep icon="wand-magic-sparkles" >}} Add more skills, prompts, context, and
+rules, and pray it goes well {{< /timelineStep >}}
+
+{{< /timeline >}}
 
 So I sat down, and just like I did for `GHOST`, I thought about how _I_ wanted to
 interact with an LLM:
@@ -44,7 +59,8 @@ All those things also would have the advantage of working particularly well with
 models:
 
 - Even if running a model is a bit slower locally, it's ok if it's asynchronous
-- Being strongly opinionated directs agents in the right direction
+- Being strongly opinionated about the code and workflow pushes agents in the right
+  direction
 
 # What
 
@@ -84,7 +100,15 @@ It's a git-driven workflow. All stable state gets comitted to git:
 The decisions and final report are the only artifacts that stay in the repo, as they
 will give context beyond code for the future agents.
 
-# Why the why?
+Locally, the server holds chats session and other info. But you could lose this local
+database and it shouldn't be an issue. Everything that matters is in git.
+
+I benchmarked the workflow against other harnesses, having an LLM roleplay the human in
+the process, and it _did_ improve results slightly compared to raw Claude Code.
+
+There's still
+[tons to improve](https://github.com/mrtolkien/uraeda/blob/main/specs/PRIORITIES.md) but
+I'm decently happy with its current state and I'm making it officially v1.0.
 
 # It's complicated
 
@@ -113,3 +137,20 @@ It's all gone. I don't even know what the code looks like anymore. Half of it is
 in languages I don't even enjoy, and wouldn't be able to evaluate since I didn't have
 time to develop a strong taste for it. I've become a project manager with a strong
 technical background.
+
+# Next steps
+
+I'll now be using uraead to working on personal projects:
+
+- A turn-based competitive strategy game where both players play simultaneously
+- A chat app with modular UI that can easily be self-hosted, federated, and _fast_
+- Making a less addictive ui for reading Reddit/Bluesky, optimized for e-ink devices
+- A Japanese learning system that picks up from my 12.000 Anki flashcards into something
+  more interactive and focused on grammar
+- A Go coach that analyses my games and creates Tsumego relevant to the errors I often
+  make
+
+It's hard to find time as a dad of two young kids, doing all the cooking, cleaning,
+transportation, and of course hours of active time together daily. I hope uraeda will
+help me at least make some progress on those projects, here and there, when I have a few
+minutes to read the questions.

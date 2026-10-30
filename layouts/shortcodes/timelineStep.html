@@ -1,0 +1,13 @@
+{{/* Compact single-line variant of Blowfish's timelineItem */}}
+{{ $icon := .Get "icon" | default "check" }}
+<li>
+  <div class="flex items-center mb-3">
+    <div
+      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full ltr:-ml-12 rtl:-mr-[79px]">
+      {{ partial "icon" $icon }}
+    </div>
+    <div class="block px-4 py-3 rounded-lg shadow-2xl flex-1 ms-6 break-words">
+      {{- .Inner | markdownify -}}
+    </div>
+  </div>
+</li>
