@@ -67,9 +67,9 @@ models:
 
 So that's how I ended up creating uraeda:
 
-{{< github repo="mrtolkien/uraeda" >}}
-
 ![banner-dark.svg](banner-dark.svg)
+
+{{< github repo="mrtolkien/uraeda" >}}
 
 ![screenshot desktop](https://github.com/mrtolkien/uraeda/raw/main/docs/images/screenshots/home-desktop-dark.webp)
 
