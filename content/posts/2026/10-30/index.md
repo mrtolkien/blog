@@ -131,6 +131,9 @@ database and it shouldn't be an issue. Everything that matters is in git.
 I benchmarked the workflow against other harnesses, having an LLM roleplay the human in
 the process, and it _did_ improve results slightly compared to raw Claude Code.
 
+More importantly, I _enjoy_ using this workflow to add features to my projects. It
+respects my time and I get to the software I have in mind faster.
+
 There's still
 [tons to improve](https://github.com/mrtolkien/uraeda/blob/main/specs/PRIORITIES.md),
 but I'm decently happy with its current state and I'm making it officially v1.0.
